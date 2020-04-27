@@ -2,7 +2,7 @@ Remastered version of GTA V grove street
 YMAP & XML included
 -
 YMAP is ready to go for FiveM!
-1. Open Grove_Remastered.rar
+1. Open Grove-Remastered.rar
 2. Open "Grove Remastered" folder
 3. Take "YMAP" folder
 4. Put it in your server resources
