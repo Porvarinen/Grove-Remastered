@@ -1,4 +1,4 @@
-Remastered version of boring default GTA V grove street
+Remastered version of GTA V grove street
 YMAP & XML included
 -
 YMAP is ready to go for FiveM!
