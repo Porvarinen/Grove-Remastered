@@ -1,5 +1,4 @@
-Remastered version of GTA V grove street
-YMAP & XML included
+Remastered version of GTA V grove street | YMAP & XML included
 -
 YMAP is ready to go for FiveM!
 1. Open Grove-Remastered.rar
